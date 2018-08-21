@@ -26,3 +26,4 @@ train_img_fns.pickle
 val2014_sample.zip
 val_img_embeds.pickle
 val_img_fns.pickle
+weights*
